@@ -64,7 +64,7 @@ Important Notes
 
 - The module may not work on all Linux kernel versions or configurations. Test it in a controlled environment and understand the potential implications before using it in a production system.
 
-- Use this module at your own risk. The author(s) and contributors are not responsible for any damage or loss caused by the use of this module.
+- Use this module at your own risk. The author not responsible for any damage or loss caused by the use of this module.
 
 License
 -------
