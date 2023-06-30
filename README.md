@@ -30,7 +30,7 @@ Loading the Module
 
 2. Load the module into the kernel by running the following command as root:
 
-> sudo insmod hide_module.ko pid_to_hide=<PID>
+> sudo insmod hide_module.ko pid_to_hide= <PID>
 
 Replace `<PID>` with the actual PID of the process you want to hide.
 
